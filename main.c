@@ -6,7 +6,7 @@
 #include<windows.h>
 #include<process.h>
 #include<time.h>
-
+//sync
 #define MAX 200
 
 int num;
